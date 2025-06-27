@@ -13,3 +13,7 @@ Estas tienen la función de aumentar la adherencia y reducir el riesgo de perder
 # Sensor de color
 La función de este sensor es medir la intensidad de la luz en diferentes longitudes de onda para determinar los colores de los objetos y enviar una señal para saber que color es
 ![Sensor_de_color](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/sensor_de_color.jpg "Sensor_de_color")
+
+# Sensor de infrarrojos
+Este se encarga de enviar una señal de infrarrojos (radiación) por medio de uno de sus led el cual funciona como emisor, esta señal rebota y regresa al sensor siendo detectada por el otro led que funciona como receptor, este mide el nivel de radiación de infrarrojo que recivio y el tiempo que tardo, con estos datos puede determinar a que distancia esta el objeto con el cual reboto el rayo infrarrojo
+![Sensor_de_infrarrojos](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/sensor_infrarrojos.jpg "Sensor_de_infrarrojos")
