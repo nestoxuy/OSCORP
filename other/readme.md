@@ -41,3 +41,7 @@ estos tres componentes se usaron como ayuda para identificar cuando el programa 
 # Bateria de Litio recargable de 7.4V y 6200mha
 esta bateria se uso como principal fuente de poder para la raspberry y los sensores instalados 
 ![Bateria_de_Litio_recargable_de_7.4V_y_6200mha](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/Bateria_de_Litio_recargable_de_7.4V_y_6200mha.jpg "Bateria_de_Litio_recargable_de_7.4V_y_6200mha")
+
+# Modulo regulador de corriente
+Este modulo fue crucial para la funcion de la raspberry, ya que convierte los 7,4V de la bateria en 5V o 4.99V para ser exactos, evitando un corto y disminuyendo el riesgo de que se queme la raspberry
+![Modulo_regulador_de_corriente](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/Modulo_regulador_de_corriente.jpg "Modulo_regulador_de_corriente")
