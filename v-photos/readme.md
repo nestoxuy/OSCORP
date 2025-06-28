@@ -8,4 +8,4 @@
 ![Costado_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_derecho.jpeg "Costado_derecho")
 
 # Costado Izquierdo 
-![Costado_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_derecho.jpeg "Costado_izquierdo")
+![Costado_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_izquierdo.jpeg "Costado_izquierdo")
