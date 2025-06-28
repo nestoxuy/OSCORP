@@ -29,4 +29,4 @@ se uso como principal base de todo el ensamblaje y fue la pieza principal para n
 
 # Raspberry pi5
 esta es la placa madre, el cerebro de todo el robot la raspberry pi5 cuenta con 8gb de RAM y 4gb de ROM además, incorpora una GPU con soporte dual 4K y una interfaz PCI Express para periféricos avanzados y su diseño permite una mayor compatibilidad con accesorios y proyectos existentes aparte cuenta con dos entradas HDMI, 4 entradas USB (2 entradas USB2.0 y 2 entradas USB3.0), una entrada Gigabit Ethemet, 27 pines programables, 2 pines de 3v, 2 de 5v, 8 pines GND y una entrada de carga USB tipo C
-![Raspberry_pi5]()
+![Raspberry_pi5](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/raspberry-pi-5-03.jpg "Raspberry_pi5")
