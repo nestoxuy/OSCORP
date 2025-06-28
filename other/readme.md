@@ -45,3 +45,7 @@ esta bateria se uso como principal fuente de poder para la raspberry y los senso
 # Modulo regulador de corriente
 Este modulo fue crucial para la funcion de la raspberry, ya que convierte los 7,4V de la bateria en 5V o 4.99V para ser exactos, evitando un corto y disminuyendo el riesgo de que se queme la raspberry
 ![Modulo_regulador_de_corriente](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/Modulo_regulador_de_corriente.jpg "Modulo_regulador_de_corriente")
+
+# Tirrac
+Se usaron para sujetar la raspberry, la bateria y el cableado principal para evitar que este se mueva o que los pines se salgan 
+![Tirrac](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/Tirrac.jpg "Tirrac")
