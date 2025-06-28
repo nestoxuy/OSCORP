@@ -30,4 +30,9 @@ se uso como principal base de todo el ensamblaje y fue la pieza principal para n
 esta es la placa madre, el cerebro de todo el robot la raspberry pi5 cuenta con 8gb de RAM y 4gb de ROM además, incorpora una GPU con soporte dual 4K y una interfaz PCI Express para periféricos avanzados y su diseño permite una mayor compatibilidad con accesorios y proyectos existentes aparte cuenta con dos entradas HDMI, 4 entradas USB (2 entradas USB2.0 y 2 entradas USB3.0), una entrada Gigabit Ethemet, 27 pines programables, 2 pines de 3V, 2 de 5V, 8 pines GND, una entrada de carga USB tipo C y un puerto para una memoria Micro SD, esta logra soportar como minimo 5V-3A y como maximo 5V-5A
 ![Raspberry_pi5](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/raspberry-pi-5-03.jpg "Raspberry_pi5")
 
+# Kit de tornillos hexagonales para pilares
+Este kit sirvio como ayuda para crear los pilares de nuestro robot permitiendonos crear dos pisos, el inferior con los motores y la direccional y el superior con todo el cableado, la raspberry pi5, la bateria, la ProtoBoard y los sensores
+![Kit_de_tornillos_hexagonales_para_pilares](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/Kit%20de%20tornillos%20hexagonales%20para%20pilares.jpg"Kit_de_tornillos_hexagonales_para_pilares")
+
+
 #
