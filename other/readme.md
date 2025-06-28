@@ -20,11 +20,13 @@ Este se encarga de enviar una señal de infrarrojos (radiación) por medio de un
 ![Sensor_de_infrarrojos](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/sensor_infrarrojos.jpg "Sensor_de_infrarrojos")
 
 # Cables DuPont y ProtoBoard
-Los cables DuPont se usaron para realizar las conexiones con los pines programables de la rspberry pi5 y las conexiones electricas para los sensores como lo son los pines de 5v y los pines gnd.La ProtoBoard se uso como intermediario para estas conexiones facilitando la conexion y desconexion de los pines y tambien ayudo en la distribucion de energia para los sensores como lo son los pines de 5v (positico) y los pines gnd (negativos)
+Los cables DuPont se usaron para realizar las conexiones con los pines programables de la rspberry pi5 y las conexiones electricas para los sensores como lo son los pines de 5v y los pines GND.La ProtoBoard se uso como intermediario para estas conexiones facilitando la conexion y desconexion de los pines y tambien ayudo en la distribucion de energia para los sensores como lo son los pines de 5v (positico) y los pines GND (negativos)
 ![Cables_DuPont_y_ProtoBoard](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/Proto_Board.jpeg "Cables_DuPont_y_ProtoBoard")
 
 # Bases acrilicas transparente
 se uso como principal base de todo el ensamblaje y fue la pieza principal para no solo poner la direcional y los motores si no para atornillar, pegar y adherir los distintos suplementos electronicos contando con dos pisos el inferior y el superior
 ![Bases_acrilicas_transparente](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/base.jpg "Bases_acrilicas_transparente")
 
-# 
+# Raspberry pi5
+esta es la placa madre, el cerebro de todo el robot la raspberry pi5 cuenta con 8gb de RAM y 4gb de ROM además, incorpora una GPU con soporte dual 4K y una interfaz PCI Express para periféricos avanzados y su diseño permite una mayor compatibilidad con accesorios y proyectos existentes aparte cuenta con dos entradas HDMI, 4 entradas USB (2 entradas USB2.0 y 2 entradas USB3.0), una entrada Gigabit Ethemet, 27 pines programables, 2 pines de 3v, 2 de 5v, 8 pines GND y una entrada de carga USB tipo C
+![Raspberry_pi5]()
