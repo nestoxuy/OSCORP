@@ -37,3 +37,7 @@ Este kit sirvio como ayuda para crear los pilares de nuestro robot permitiendono
 # Diodo LED, boton y resistencia
 estos tres componentes se usaron como ayuda para identificar cuando el programa se esta ejecutando usando un diodo led rojo, un boton como accionador del programa y una resistencia de 200 ohmios para evitar que el diodo led se queme 
 ![Diodo_LED,_boton_y_resistencia](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/Diodo_LED,_boton_y_resistencia.jpg "Diodo_LED,_boton_y_resistencia")
+
+# Bateria de Litio recargable de 7.4V y 6200mha
+esta bateria se uso como principal fuente de poder para la raspberry y los sensores instalados 
+![Bateria_de_Litio_recargable_de_7.4V_y_6200mha](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/Bateria_de_Litio_recargable_de_7.4V_y_6200mha.jpg "Bateria_de_Litio_recargable_de_7.4V_y_6200mha")
