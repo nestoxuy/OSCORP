@@ -32,7 +32,7 @@ esta es la placa madre, el cerebro de todo el robot la raspberry pi5 cuenta con 
 
 # Kit de tornillos hexagonales para pilares
 Este kit sirvio como ayuda para crear los pilares de nuestro robot permitiendonos crear dos pisos, el inferior con los motores y la direccional y el superior con todo el cableado, la raspberry pi5, la bateria, la ProtoBoard y los sensores
-![Kit_de_tornillos_hexagonales_para_pilares](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/Kit_de_tornillos_hexagonales_para_pilares "Kit_de_tornillos_hexagonales_para_pilares")
+![Kit_de_tornillos_hexagonales_para_pilares](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/Kit_de_tornillos_hexagonales_para_pilares.jpg "Kit_de_tornillos_hexagonales_para_pilares")
 
 # Diodo LED, boton y resistencia
 estos tres componentes se usaron como ayuda para identificar cuando el programa se esta ejecutando usando un diodo led rojo, un boton como accionador del programa y una resistencia de 200 ohmios para evitar que el diodo led se queme 
