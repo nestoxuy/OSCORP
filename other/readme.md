@@ -20,3 +20,4 @@ Este se encarga de enviar una señal de infrarrojos (radiación) por medio de un
 
 # Cables DuPont y ProtoBoard
 Los cables DuPont se usaron para realizar las conexiones con los pines programables de la rspberry pi5 y las conexiones electricas para los sensores como lo son los pines de 5v y los pines gnd.La ProtoBoard se uso como intermediario para estas conexiones facilitando la conexion y desconexion de los pines y tambien ayudo en la distribucion de energia para los sensores como lo son los pines de 5v (positico) y los pines gnd (negativos)
+![Cables_DuPont_y_ProtoBoard](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/Proto_Board.jpeg "Cables_DuPont_y_ProtoBoard")
