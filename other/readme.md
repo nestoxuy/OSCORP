@@ -16,11 +16,10 @@ La función de este sensor es medir la intensidad de la luz en diferentes longit
 
 # Sensor de infrarrojos
 Este se encarga de enviar una señal de infrarrojos (radiación) por medio de uno de sus led el cual funciona como emisor, esta señal rebota y regresa al sensor siendo detectada por el otro led que funciona como receptor, este mide el nivel de radiación de infrarrojo que recivio y el tiempo que tardo, con estos datos puede determinar a que distancia esta el objeto con el cual reboto el rayo infrarrojo
-
 ![Sensor_de_infrarrojos](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/sensor_infrarrojos.jpg "Sensor_de_infrarrojos")
 
 # Cables DuPont y ProtoBoard
-Los cables DuPont se usaron para realizar las conexiones con los pines programables de la rspberry pi5 y las conexiones electricas para los sensores como lo son los pines de 5v y los pines GND.La ProtoBoard se uso como intermediario para estas conexiones facilitando la conexion y desconexion de los pines y tambien ayudo en la distribucion de energia para los sensores como lo son los pines de 5v (positico) y los pines GND (negativos)
+Los cables DuPont se usaron para realizar las conexiones con los pines programables de la rspberry pi5 y las conexiones electricas para los sensores como lo son los pines de 5v y los pines GND.La ProtoBoard se uso como intermediario para estas conexiones facilitando la conexion y desconexion de los pines y tambien ayudo en la distribucion de energia para los sensores como lo son los pines de 5V (positico) y los pines GND (negativos)
 ![Cables_DuPont_y_ProtoBoard](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/Proto_Board.jpeg "Cables_DuPont_y_ProtoBoard")
 
 # Bases acrilicas transparente
@@ -28,5 +27,7 @@ se uso como principal base de todo el ensamblaje y fue la pieza principal para n
 ![Bases_acrilicas_transparente](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/base.jpg "Bases_acrilicas_transparente")
 
 # Raspberry pi5
-esta es la placa madre, el cerebro de todo el robot la raspberry pi5 cuenta con 8gb de RAM y 4gb de ROM además, incorpora una GPU con soporte dual 4K y una interfaz PCI Express para periféricos avanzados y su diseño permite una mayor compatibilidad con accesorios y proyectos existentes aparte cuenta con dos entradas HDMI, 4 entradas USB (2 entradas USB2.0 y 2 entradas USB3.0), una entrada Gigabit Ethemet, 27 pines programables, 2 pines de 3v, 2 de 5v, 8 pines GND y una entrada de carga USB tipo C
+esta es la placa madre, el cerebro de todo el robot la raspberry pi5 cuenta con 8gb de RAM y 4gb de ROM además, incorpora una GPU con soporte dual 4K y una interfaz PCI Express para periféricos avanzados y su diseño permite una mayor compatibilidad con accesorios y proyectos existentes aparte cuenta con dos entradas HDMI, 4 entradas USB (2 entradas USB2.0 y 2 entradas USB3.0), una entrada Gigabit Ethemet, 27 pines programables, 2 pines de 3V, 2 de 5V, 8 pines GND, una entrada de carga USB tipo C y un puerto para una memoria Micro SD, esta logra soportar como minimo 5V-3A y como maximo 5V-5A
 ![Raspberry_pi5](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/raspberry-pi-5-03.jpg "Raspberry_pi5")
+
+#
