@@ -1,4 +1,6 @@
-##  Índice
+# Carpetas
+* [oters](https://github.com/nestoxuy/OSCORP/tree/main/models)
+#  Índice
 
 * [Contenido del Repositorio](#contenido-del-repositorio)
 * [Introducción al Proyecto](#introducción-al-proyecto)
