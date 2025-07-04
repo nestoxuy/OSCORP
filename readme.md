@@ -23,7 +23,7 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 
 ---
 
-# fotos del robot
+# Fotos del Vehículo
 |Lugar|Foto|
 |:----:|:----:|
 |**Nivel_superior**| ![Nivel_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_superior.jpeg)| 
