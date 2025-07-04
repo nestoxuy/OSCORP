@@ -1,18 +1,22 @@
+# OSCORP TEAM
+Somos el equipo que con orgullo viene a representar a la Unidad Educativa Instituto San Antonio (U.E.I San Antonio). osotros nos centramos en el trabajo en equipo, el trabajo duro, el esfuerzo y el empeño que ponemos en cada proyecto que realizamos para lograr avanzar y conseguir nuestras metas y sueños
+
 # Carpetas
-* [oters](https://github.com/nestoxuy/OSCORP/tree/main/models)
+* [Models](https://github.com/nestoxuy/OSCORP/tree/main/models)
 #  Índice
 
 * [Contenido del Repositorio](#contenido-del-repositorio)
-* [Introducción al Proyecto](#introducción-al-proyecto)
+* [Introducción del Proyecto](#introducción-del-proyecto)
 * [Fotos de nuestro Equipo](#fotos-de-nuestro-Equipo)
 * [Fotos del Vehículo](#fotos-del-vehículo)
 * [Nuestro paso a paso en la contrucción del robot](#diseño-de-hardware)
 
 # Contenido del Repositorio
 
-Nuestro repositorio contiene los siguientes datos del equipo:
-
-* `t-photos`: Incluye 2 fotos del equipo (una oficial y una divertida con todos los miembros).
+## Nuestro repositorio contiene los siguientes datos del equipo:
+|Carpeta| descripción|
+|------|------|
+| * [`t-photos`](https://github.com/nestoxuy/OSCORP/tree/main/t-photos)| Incluye 2 fotos del equipo (una oficial y una divertida con todos los miembros) |
 * `v-photos`: Contiene 8 fotos del vehículo (desde todos los ángulos, superior e inferior).
 * `video`: Un acceso directo a nuestro video publicado en nuestra cuenta de youtube.
 * `schemes`: Diagrama esquemático PNG de las conexiones electronicas desde la rapsberry hasta los componentes.
