@@ -25,7 +25,7 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 
 # fotos del robot
 |Lugar|Foto|
-|:----:|:----:|
+|----|----|
 |**Nivel_superior**| ![Nivel_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_superior.jpeg)| 
 |Nivel_inferior|![Nivel_inferior"](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_inferior.jpeg)| 
 |Costado_derecho|![Costado_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_derecho.jpeg "Costado_derecho")| 
