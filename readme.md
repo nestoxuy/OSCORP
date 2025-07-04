@@ -17,12 +17,12 @@ Somos el equipo que con orgullo viene a representar a la Unidad Educativa Instit
 |Carpeta| descripción|
 |------|------|
 | * [`t-photos`](https://github.com/nestoxuy/OSCORP/tree/main/t-photos)| Incluye 2 fotos del equipo (una oficial y una divertida con todos los miembros) |
-* `v-photos`: Contiene 8 fotos del vehículo (desde todos los ángulos, superior e inferior).
-* `video`: Un acceso directo a nuestro video publicado en nuestra cuenta de youtube.
-* `schemes`: Diagrama esquemático PNG de las conexiones electronicas desde la rapsberry hasta los componentes.
-* `src`: Todas las carpetas con las pruebas y practicas que a echo el equipo a lo largo del desarrollo del robot junto con una breve historia de como fuimos evolucionando y cambiando los codigos a lo largo del trayecto.
-* `models`: Esta carpeta esta vacia devido a que nuetro robot no necesito de impreciones 3D.
-* `other`: Contiene una lista de componentes que hemos usado y hemos podido descartar y no ser usados como componentes que si fueron implementados en la version final del robot
+|[* `v-photos`](https://github.com/nestoxuy/OSCORP/tree/main/v-photos) |Contiene 9 fotos del vehículo (desde todos los ángulos, superior e inferior)|
+|[* `video`](https://github.com/nestoxuy/OSCORP/tree/main/video) |Un acceso directo a nuestro video publicado en nuestra cuenta de youtube|
+|[* `schemes`](https://github.com/nestoxuy/OSCORP/tree/main/schemes) |Diagrama esquemático PNG de las conexiones electronicas desde la rapsberry hasta los componentes|
+|[* `src`](https://github.com/nestoxuy/OSCORP/tree/main/src)|Todas las carpetas con las pruebas y practicas que a echo el equipo a lo largo del desarrollo del robot junto con una breve historia de como fuimos evolucionando y cambiando los codigos a lo largo del trayecto|
+|[* `models`](https://github.com/nestoxuy/OSCORP/tree/main/models)|Esta carpeta esta vacia devido a que nuetro robot no necesito de impreciones 3D|
+|[* `other`](https://github.com/nestoxuy/OSCORP/tree/main/other)|Contiene una lista de componentes que hemos usado y hemos podido descartar y no ser usados como componentes que si fueron implementados en la version final del robot|
 
 # Fotos de nuestro equipo 
 |Equipo OSCORP|![Equipo OSCORP](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/Equipo_OSCORP.jpg)|
