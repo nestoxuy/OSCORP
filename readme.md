@@ -28,4 +28,8 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 | :----: | :-------------------: | :----------: |
 | ![Tren_delantero](v-photos/Images/Tren_delantero.jpeg ) | ![Tren_trasero](v-photos/Images/Tren_trasero.jpeg ) | ![Lateral_inferior_derecho](v-photos/Images/Lateral_inferior_derecho.jpeg) |
 ---
+Quedaría
+|Contenido|Contenido|
+|----------|----------|
 
+Dependiendo de cuántas columnas quieras
