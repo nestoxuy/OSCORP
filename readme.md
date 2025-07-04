@@ -2,7 +2,7 @@
 
 * [Contenido del Repositorio](#contenido-del-repositorio)
 * [Introducción al Proyecto](#introducción-al-proyecto)
-* [Fotos de nuestro equipo Equipo](#Fotos-de-nuestro-equipo-Equipo)
+* [Fotos de nuestro Equipo](#fotos-de-nuestro-Equipo)
 * [Fotos del Vehículo](#fotos-del-vehículo)
 * [Nuestro paso a paso en la contrucción del robot](#diseño-de-hardware)
 
