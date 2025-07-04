@@ -25,9 +25,8 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 
 ---
 ## Fotos del vehículo 
-| ![Nivel_superior](v-photos/Images/Nivel_superior.jpeg )  |  ![Nivel_inferior"](v-photos/Images/Nivel_inferior.jpeg )  |  ![Cosado_derecho](v-photos/Images/Costado_derecho.jpeg )  |  ![Costado_izquierdo](v-photos/Images/Costado_izquierdo.jpeg )  |
+| ![Nivel_superior](v-photos/Nivel_superior.jpeg)  |  ![Nivel_inferior"](v-photos/Nivel_inferior.jpeg)  |  ![Cosado_derecho](v-photos/Costado_derecho.jpeg)  |  ![Costado_izquierdo](v-photos/Costado_izquierdo.jpeg)  |
 | :----: | :-------------------: | :----------: |
 | ![Tren_delantero](v-photos/Images/Tren_delantero.jpeg ) | ![Tren_trasero](v-photos/Images/Tren_trasero.jpeg ) | ![Lateral_inferior_derecho](v-photos/Images/Lateral_inferior_derecho.jpeg) |
-
 ---
 
