@@ -35,4 +35,3 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 |Lateral_inferior_izquierdo|![Lateral_inferior_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_izquierdo_inferior.jpeg "Lateral_inferior_izquierdo") 
 |Lateral_inferior_derecho|![Lateral_inferior_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_inferior_derecho.jpeg "Lateral_inferior_derecho")
 |Lateral_superior|![Lateral_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_superior.jpeg "Lateral_superior")|
- |------|--------|
