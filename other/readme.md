@@ -1,10 +1,10 @@
-name | image | description |
 
 
 
-# Motor Module|
-This module manages the movement and performance of the motors, in addition to managing the energy flow|
-![module](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/modulo_de_motores.jpg "motor module")|
+
+| # Motor Module |
+| This module manages the movement and performance of the motors, in addition to managing the energy flow|
+| ![module](https://github.com/nestoxuy/OSCORP/blob/main/FOTOS/modulo_de_motores.jpg "motor module") |
 
 # Ultrasonic Sensor
 Responsible for sending ultrasonic waves that bounce off sufficiently solid objects and are received by the sensor to obtain environmental measurements. In short, it detects the robot's surroundings and measures distances 
