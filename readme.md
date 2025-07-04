@@ -28,8 +28,8 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 | :----: | :-------------------: | :----------: |
 | ![Tren_delantero](v-photos/Images/Tren_delantero.jpeg ) | ![Tren_trasero](v-photos/Images/Tren_trasero.jpeg ) | ![Lateral_inferior_derecho](v-photos/Images/Lateral_inferior_derecho.jpeg) |
 ---
-Quedaría
-|Contenido|Contenido|
+fotos del robot
+| ![Nivel_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_superior.jpeg)| ![Nivel_inferior"](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_inferior.jpeg)|
 |----------|----------|
 
 Dependiendo de cuántas columnas quieras
