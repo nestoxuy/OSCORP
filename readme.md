@@ -24,8 +24,8 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 ---
 ## Fotos del vehículo 
 ---
-| ![Nivel_superior](v-photos/Images/Nivel_superior.jpeg) | ![Nivel_inferior"](v-photos/Images/Nivel_inferior.jpeg) | ![Cosado_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_derecho.jpeg "Costado_derecho") | ![Costado_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_izquierdo.jpeg "Costado_izquierdo") |
+| ![Nivel_superior](v-photos/Images/Nivel_superior.jpeg ) | ![Nivel_inferior"](v-photos/Images/Nivel_inferior.jpeg ) | ![Cosado_derecho](main/v-photos/Images/Costado_derecho.jpeg ) | ![Costado_izquierdo](main/v-photos/Images/Costado_izquierdo.jpeg ) |
 | :----: | :------------------- | :---------- |
-| ![Tren_delantero](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_delantero.jpeg "Tren_delantero") | ![Tren_trasero](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_trasero.jpeg "Tren_trasero") | ![Lateral_inferior_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_inferior_derecho.jpeg "Lateral_inferior_derecho") |
+| ![Tren_delantero](main/v-photos/Images/Tren_delantero.jpeg ) | ![Tren_trasero](main/v-photos/Images/Tren_trasero.jpeg ) | ![Lateral_inferior_derecho](main/v-photos/Images/Lateral_inferior_derecho.jpeg) |
 
 
