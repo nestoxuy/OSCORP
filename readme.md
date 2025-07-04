@@ -22,14 +22,8 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 |------|------|
 
 ---
-| ## Fotos del vehículo |
-|------|------|
-|![Nivel_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_superior.jpeg)|![Nivel_inferior"](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_inferior.jpeg)|![Costado_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_derecho.jpeg "Costado_derecho")|![Costado_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_izquierdo.jpeg "Costado_izquierdo")  |
-| :----: | :-------------------: | :----------: |
-| ![Tren_delantero](v-photos/Images/Tren_delantero.jpeg ) | ![Tren_trasero](v-photos/Images/Tren_trasero.jpeg ) | ![Lateral_inferior_derecho](v-photos/Images/Lateral_inferior_derecho.jpeg) |
----
-fotos del robot
-| ![Nivel_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_superior.jpeg)| ![Nivel_inferior"](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_inferior.jpeg)|
+
+# fotos del robot
+| ![Nivel_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_superior.jpeg)| ![Nivel_inferior"](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_inferior.jpeg)| ![Costado_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_derecho.jpeg "Costado_derecho")|
 |----------|----------|
 
-Dependiendo de cuántas columnas quieras
