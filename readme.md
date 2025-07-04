@@ -17,3 +17,7 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 * `src`: Todas las carpetas con las pruebas y practicas que a echo el equipo a lo largo del desarrollo del robot junto con una breve historia de como fuimos evolucionando y cambiando los codigos a lo largo del trayecto.
 * `models`: Esta carpeta esta vacia devido a que nuetro robot no necesito de impreciones 3D.
 * `other`: Contiene una lista de componentes que hemos usado y hemos podido descartar y no ser usados como componentes que si fueron implementados en la version final del robot
+
+## Fotos de nuestro equipo
+| ![Fotos del equipo](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/Equipo_OSCORP.jpg)|  |:......:|
+|:......:| |:.......:|
