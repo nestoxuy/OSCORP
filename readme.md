@@ -18,6 +18,10 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 * `models`: Esta carpeta esta vacia devido a que nuetro robot no necesito de impreciones 3D.
 * `other`: Contiene una lista de componentes que hemos usado y hemos podido descartar y no ser usados como componentes que si fueron implementados en la version final del robot
 
+---
 ## Fotos de nuestro equipo
-| ![fotos del equipo](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/Equipo_OSCORP.jpg)
+| ![fotos del equipo](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/Equipo_OSCORP.jpg) |
+---
+
+
 
