@@ -20,4 +20,4 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 
 ## Fotos de nuestro equipo
 | ![ Foto del equipo](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/Equipo_OSCORP.jpg)    |
-|:......:| |:.......:|
+|:-----:| |:-------:|
