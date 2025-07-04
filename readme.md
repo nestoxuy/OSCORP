@@ -25,10 +25,12 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 
 # fotos del robot
 |Lugar|Foto|
-|----|-----|
-
-| ![Nivel_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_superior.jpeg)| ![Nivel_inferior"](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_inferior.jpeg)| ![Costado_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_derecho.jpeg "Costado_derecho")| ![Costado_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_izquierdo.jpeg "Costado_izquierdo")| ![Tren_delantero](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_delantero.jpeg "Tren_delantero")|
-|----------|----------|----------|-----------|----------|
+|:----:|:----:|
+|**Nivel_superior**| ![Nivel_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_superior.jpeg)| 
+|Nivel_inferior|![Nivel_inferior"](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_inferior.jpeg)| 
+|Costado_derecho|![Costado_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_derecho.jpeg "Costado_derecho")| 
+|Costado_izquierdo|![Costado_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_izquierdo.jpeg "Costado_izquierdo")|
+|Tren_delantero|![Tren_delantero](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_delantero.jpeg "Tren_delantero")|
 
 |![Tren_trasero](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_trasero.jpeg "Tren_trasero") |![Lateral_inferior_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_izquierdo_inferior.jpeg "Lateral_inferior_izquierdo") |![Lateral_inferior_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_inferior_derecho.jpeg "Lateral_inferior_derecho") |![Lateral_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_superior.jpeg "Lateral_superior")|
  |------|--------|--------|-------|
