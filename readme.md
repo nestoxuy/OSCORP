@@ -19,5 +19,5 @@ Nuestro repositorio contiene los siguientes datos del equipo:
 * `other`: Contiene una lista de componentes que hemos usado y hemos podido descartar y no ser usados como componentes que si fueron implementados en la version final del robot
 
 ## Fotos de nuestro equipo
-| ![Fotos del equipo](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/Equipo_OSCORP.jpg)|  |:......:|
+| ![Fotos del equipo](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/Equipo_OSCORP.jpg) | :......:|
 |:......:| |:.......:|
