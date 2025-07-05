@@ -89,6 +89,16 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |**Mechanical steering of a toy car**|It helps steer the robot by transmitting force from the servomotor to the wheels to change the robot's direction and assist with its turns. The servomotor was adapted so that a plastic lever would fit perfectly into the slot in the turn signal, allowing the servomotor to transmit its force much better|![Mechanical_steering_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Mechanical_steering_of_a_toy_car.jpg)|
 |**180 degree servo motor**| The servomotor used was a 180-degree servomotor to control movement. The servomotor centers at 90 degrees, turns left at 180 degrees, and turns right at 0 degrees|![180_degree_servo_motor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/180_degree_servo_motor.jpg)|
 
+# processing components 
+|name|function|image|
+|----|-------|-----|
+| **Raspberry Pi5**|The motherboard - the robot's brain. Features: 8GB RAM, 4GB ROM, dual 4K GPU support, PCI Express interface. Ports: 2x HDMI, 4x USB (2x USB2.0 + 2x USB3.0), Gigabit Ethernet, 27 programmable pins (2x 3V, 2x 5V, 8x GND), USB-C power, microSD slot. Power: 5V-3A (min) to 5V-5A (max)|![Raspberry_Pi5](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/raspberry-pi-5-03.jpg "Raspberry_Pi5")|
+
+# power components 
+|name|function|image|
+|----|-------|-----|
+| **7.4V 6200mAh Rechargeable Lithium Battery**|Primary power source for Raspberry Pi and installed sensors|![7.4V_6200mAh_Rechargeable_Lithium_Battery](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/7.4V_6200mha_Rechargeable_Lithium_Battery.jpg "7.4V_6200mAh_rechargeable_lithium_battery")|
+|**Current Regulator Module**|Critical component converting battery's 7.4V to stable 5V (exactly 4.99V), preventing shorts and protecting Raspberry Pi|![Current_Regulator_Module](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Current%20_regulator.jpg "Current_regulator")|
 
 # Electronic connection diagram
 !["diagram"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Scheme.png )
