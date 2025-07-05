@@ -68,13 +68,22 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |------|-----------|------------------|------|
 |**LED Diode, Button and Resistor** |Components indicating program execution: Red LED diode, program activation button, and 200Ω resistor preventing LED burnout|At first we used it as an indicator that the program was running but there came a time when it stopped working, the LED had not burned out so that was not the error we thought it was due to the programming since after a modification it stopped working, it turned out that there was a crash in the program and we preferred to discard the LED and use as an indicator the movement that the servomotor generated when it was activated|![LED_Diode,_Button_and_Resistor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/LED_button_diode_and_resistor.jpg "LED_diode,_button_and_resistor")|
 
-# Diseño del hardware 
+# Hardware design
 |name|description|image|
-|------|-----------|------|
+|----|-----------|-----|
 | **Transparent Acrylic Bases** |Primary foundation for the entire assembly. The two-tiered base holds directional components/motors (lower level) and allows mounting/screwing of electronic components (upper level)|![Transparent_Acrylic_Bases](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/base.jpg)
 |**Differential motor mechanics of a toy car**|It allows the wheels to rotate at different speeds, especially during turns, while connected to the same axle. This is crucial for safe and efficient handling, preventing slippage, and with its included motor, it can move the robot both forward and backward|![Differential_motor_mechanics_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Differential_motor_mechanics_of_a_toy_car.jpg)|
 |**Mechanical steering of a toy car**|It helps steer the robot by transmitting force from the servomotor to the wheels to change the robot's direction and facilitate its turns. The servomotor was adapted so that a plastic lever fit perfectly into the servomotor slot, allowing it to transmit its force much better. The servomotor used was a 180-degree servomotor to control movement. The servomotor centers at 90 degrees, turns left at 180 degrees, and turns right at 0 degrees.|![Mechanical_steering_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Mechanical_steering_of_a_toy_car.jpg)|
 
+# electrical components for detection and motion 
+|name|función|image|
+|----|-------|-----|
+|**engine module**|manages the movement and performance of the motors, as well as managing the flow of energy to prevent the motors or in this case the engine from burning out| ![module](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/motor_module.jpg "motor module") |
+| **Color Sensor** |Measures light intensity at different wavelengths to determine object colors and sends signals to identify colors|![Color_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/color_sensor.jpg "Color_sensor")|
+|**infrared sensor**|Infrared Sensor radiation (IR) through one LED acting as transmitter. The signal bounces back and is detected by another LED acting as receiver. Measures received IR radiation level and return time to calculate object distance|![Infrared_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/infrared_sensor.jpg "Infrared_sensor")|
+| **Ultrasonic Sensor** |Responsible for sending ultrasonic waves that bounce off sufficiently solid objects and are received by the sensor to obtain environmental measurements. In short, it detects the robot's surroundings and measures distances |![Ultrasonic_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/ultrasound_sensor.jpg "ultrasonic_sensor")|
+|**Differential motor mechanics of a toy car**|It allows the wheels to rotate at different speeds, especially during turns, while connected to the same axle. This is crucial for safe and efficient handling, preventing slippage, and with its included motor, it can move the robot both forward and backward|![Differential_motor_mechanics_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Differential_motor_mechanics_of_a_toy_car.jpg)|
+|**Mechanical steering of a toy car**|It helps steer the robot by transmitting force from the servomotor to the wheels to change the robot's direction and assist with its turns. The servomotor was adapted so that a plastic lever would fit perfectly into the slot in the turn signal, allowing the servomotor to transmit its force much better|![Mechanical_steering_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Mechanical_steering_of_a_toy_car.jpg)|
 
 
 # Electronic connection diagram
