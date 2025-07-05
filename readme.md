@@ -6,7 +6,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 * [Project Introduction](#Project-Introduction)
 * [Photos of our Team](#Photos-of-our-Team)
 * [Vehicle Photos](#Vehicle-Photos)
-* [Our step-by-step guide to building the robot](#Our-step-by-step-guide-to-building-the-robot)
+* [How we put together the robot (experience and ideas)](#How-we-put-together-the-robot-(experience-and-ideas))
 
 # Repository Contents
 # Our repository contains the following team data:
