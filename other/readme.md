@@ -1,5 +1,4 @@
-
-
+# Lista de componenes usados
 
 |nombre|descripción|imágen|
 |------|-----------|------|
@@ -16,3 +15,9 @@
 | **7.4V 6200mAh Rechargeable Lithium Battery**|Primary power source for Raspberry Pi and installed sensors|![7.4V_6200mAh_Rechargeable_Lithium_Battery](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Bateria_de_Litio_recargable_de_7.4V_y_6200mha.jpg "7.4V_6200mAh_rechargeable_lithium_battery")|
 |**Current Regulator Module**|Critical component converting battery's 7.4V to stable 5V (exactly 4.99V), preventing shorts and protecting Raspberry Pi|![Current_Regulator_Module](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Modulo_regulador_de_corriente.jpg "Current_regulator_module")|
 |**Cable Ties**|Secure Raspberry Pi, battery, and main wiring to prevent movement and pin disconnection|![Cable_Ties](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Tirrac.jpg "Cable_ties")|
+
+
+# Lista de componentes probados pero descartados
+
+|nombre|descripción|porque se descartó|imágen|
+|------|-----------|------------------|------|
