@@ -21,7 +21,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |[`other`](https://github.com/nestoxuy/OSCORP/tree/main/other)|It contains a list of components we've used, components we've tested and discarded because they didn't work as needed, and components that were implemented in the final version of the robot. It also includes two folders, one containing all the photos and the other containing all the recorded videos|
 
 # Photos of our Team
-|OSCORP Team|![Equipo OSCORP](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/Equipo_OSCORP.jpg)|
+|OSCORP Team|![OSCORP_Team](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/OSCORP_Team.jpg)|
 |-------|-------|
 
 # Vehicle Photos
@@ -39,4 +39,4 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 
 
 # Electronic connection diagram
-!["diagram"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Esquema.png "esquema")
+!["diagram"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Scheme.png )
