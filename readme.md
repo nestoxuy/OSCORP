@@ -1,8 +1,8 @@
 # OSCORP TEAM
-Somos el equipo que con orgullo viene a representar a la Unidad Educativa Instituto San Antonio (U.E.I San Antonio). osotros nos centramos en el trabajo en equipo, el trabajo duro, el esfuerzo y el empeño que ponemos en cada proyecto que realizamos para lograr avanzar y conseguir nuestras metas y sueños
+We are the team that proudly represents the San Antonio Institute Educational Unit (U.E.I. San Antonio). We focus on teamwork, hard work, effort, and commitment to every project we undertake to achieve progress and our goals and dreams.
 
 #  Índice
-* [Contenido del Repositorio](#contenido-del-repositorio)
+* [Repository Contents](#contenido-del-repositorio)
 * [Introducción del Proyecto](#introducción-del-proyecto)
 * [Fotos de nuestro Equipo](#fotos-de-nuestro-Equipo)
 * [Fotos del Vehículo](#fotos-del-vehículo)
@@ -28,11 +28,14 @@ Somos el equipo que con orgullo viene a representar a la Unidad Educativa Instit
 |Lugar|Foto|
 |:----:|:----:|
 |**Nivel_superior**| ![Nivel_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_superior.jpeg)| 
-|Nivel_inferior|![Nivel_inferior"](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_inferior.jpeg)| 
-|Costado_derecho|![Costado_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_derecho.jpeg "Costado_derecho")| 
-|Costado_izquierdo|![Costado_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_izquierdo.jpeg "Costado_izquierdo")|
-|Tren_delantero|![Tren_delantero](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_delantero.jpeg "Tren_delantero")|
-|Tren_trasero|![Tren_trasero](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_trasero.jpeg "Tren_trasero") |
-|Lateral_inferior_izquierdo|![Lateral_inferior_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_izquierdo_inferior.jpeg "Lateral_inferior_izquierdo") 
-|Lateral_inferior_derecho|![Lateral_inferior_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_inferior_derecho.jpeg "Lateral_inferior_derecho")
-|Lateral_superior|![Lateral_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_superior.jpeg "Lateral_superior")|
+|**Nivel_inferior**|![Nivel_inferior"](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_inferior.jpeg)| 
+|**Costado_derecho**|![Costado_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_derecho.jpeg "Costado_derecho")| 
+|**Costado_izquierdo**|![Costado_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_izquierdo.jpeg "Costado_izquierdo")|
+|**Tren_delantero**|![Tren_delantero](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_delantero.jpeg "Tren_delantero")|
+|**Tren_trasero**|![Tren_trasero](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_trasero.jpeg "Tren_trasero") |
+|**Lateral_inferior_izquierdo**|![Lateral_inferior_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_izquierdo_inferior.jpeg "Lateral_inferior_izquierdo") 
+|**Lateral_inferior_derecho**|![Lateral_inferior_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_inferior_derecho.jpeg "Lateral_inferior_derecho")
+|**Lateral_superior**|![Lateral_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_superior.jpeg "Lateral_superior")|
+
+# Electronic connection diagram
+!["Esquema"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Esquema.png "esquema")
