@@ -8,6 +8,9 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 * [Vehicle Photos](#Vehicle-Photos)
 * [List of components used](#List-of-components-used)
 * [List of components tested but discarded](#List-of-components-tested-but-discarded)
+* [Hardware design](#Hardware-design)
+* [electrical components for detection and motion ](#electrical-components-for-detection-and-motion)
+* [Electronic connection diagram](#Electronic-connection-diagram)
 * [How we put together the robot (experience and ideas)](#How-we-put-together-the-robot-(experience-and-ideas))
 
 # Repository Contents
