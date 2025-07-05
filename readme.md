@@ -6,6 +6,8 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 * [Project Introduction](#Project-Introduction)
 * [Photos of our Team](#Photos-of-our-Team)
 * [Vehicle Photos](#Vehicle-Photos)
+* [List of components used](#List-of-components-used)
+* [List of components tested but discarded](#List-of-components-tested-but-discarded)
 * [How we put together the robot (experience and ideas)](#How-we-put-together-the-robot-(experience-and-ideas))
 
 # Repository Contents
@@ -38,8 +40,6 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |**Upper side**|![Upper side](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Upper_side.jpeg )|
 
 
-# Electronic connection diagram
-!["diagram"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Scheme.png )
 
 
 # List of components used
@@ -67,6 +67,17 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |------|-----------|------------------|------|
 |**LED Diode, Button and Resistor** |Components indicating program execution: Red LED diode, program activation button, and 200Ω resistor preventing LED burnout|At first we used it as an indicator that the program was running but there came a time when it stopped working, the LED had not burned out so that was not the error we thought it was due to the programming since after a modification it stopped working, it turned out that there was a crash in the program and we preferred to discard the LED and use as an indicator the movement that the servomotor generated when it was activated|![LED_Diode,_Button_and_Resistor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/LED_button_diode_and_resistor.jpg "LED_diode,_button_and_resistor")|
 
+# Diseño del hardware 
+|name|description|image|
+|------|-----------|------|
+| **Transparent Acrylic Bases** |Primary foundation for the entire assembly. The two-tiered base holds directional components/motors (lower level) and allows mounting/screwing of electronic components (upper level)|![Transparent_Acrylic_Bases](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/base.jpg)
+|**Differential motor mechanics of a toy car**|It allows the wheels to rotate at different speeds, especially during turns, while connected to the same axle. This is crucial for safe and efficient handling, preventing slippage, and with its included motor, it can move the robot both forward and backward|![Differential_motor_mechanics_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Differential_motor_mechanics_of_a_toy_car.jpg)|
+|**Mechanical steering of a toy car**|It helps steer the robot by transmitting force from the servomotor to the wheels to change the robot's direction and assist with its turns. The servomotor was adapted so that a plastic lever would fit perfectly into the slot in the turn signal, allowing the servomotor to transmit its force much better|![Mechanical_steering_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Mechanical_steering_of_a_toy_car.jpg)|
+
+servomotor de 180 grados para controlar el movimiento. El servomotor se centra a 90 grados, gira a la izquierda a 180 grados y a la derecha a 0 grados.
+
+# Electronic connection diagram
+!["diagram"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Scheme.png )
 
 
 
