@@ -41,6 +41,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 # Electronic connection diagram
 !["diagram"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Scheme.png )
 
+
 # List of components used
 
 |name|description|image|
@@ -56,12 +57,16 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 | **7.4V 6200mAh Rechargeable Lithium Battery**|Primary power source for Raspberry Pi and installed sensors|![7.4V_6200mAh_Rechargeable_Lithium_Battery](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/7.4V_6200mha_Rechargeable_Lithium_Battery.jpg "7.4V_6200mAh_rechargeable_lithium_battery")|
 |**Current Regulator Module**|Critical component converting battery's 7.4V to stable 5V (exactly 4.99V), preventing shorts and protecting Raspberry Pi|![Current_Regulator_Module](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Current%20_regulator.jpg "Current_regulator")|
 |**Cable Ties**|Secure Raspberry Pi, battery, and main wiring to prevent movement and pin disconnection|![Cable_Ties](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Tirrac.jpg "Cable_ties")|
-
+| **Ultrasonic Sensor** |Responsible for sending ultrasonic waves that bounce off sufficiently solid objects and are received by the sensor to obtain environmental measurements. In short, it detects the robot's surroundings and measures distances |![Ultrasonic_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/ultrasound_sensor.jpg "ultrasonic_sensor")|
+|**Differential motor mechanics of a toy car**|It allows the wheels to rotate at different speeds, especially during turns, while connected to the same axle. This is crucial for safe and efficient handling, preventing slippage, and with its included motor, it can move the robot both forward and backward|![Differential_motor_mechanics_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Differential_motor_mechanics_of_a_toy_car.jpg)|
+|**Mechanical steering of a toy car**|It helps steer the robot by transmitting force from the servomotor to the wheels to change the robot's direction and assist with its turns. The servomotor was adapted so that a plastic lever would fit perfectly into the slot in the turn signal, allowing the servomotor to transmit its force much better|![Mechanical_steering_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Mechanical_steering_of_a_toy_car.jpg)|
 
 # List of components tested but discarded
 
 |name|description|because it was discarded|image|
 |------|-----------|------------------|------|
 |**LED Diode, Button and Resistor** |Components indicating program execution: Red LED diode, program activation button, and 200Ω resistor preventing LED burnout|At first we used it as an indicator that the program was running but there came a time when it stopped working, the LED had not burned out so that was not the error we thought it was due to the programming since after a modification it stopped working, it turned out that there was a crash in the program and we preferred to discard the LED and use as an indicator the movement that the servomotor generated when it was activated|![LED_Diode,_Button_and_Resistor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/LED_button_diode_and_resistor.jpg "LED_diode,_button_and_resistor")|
-| **Ultrasonic Sensor** |Responsible for sending ultrasonic waves that bounce off sufficiently solid objects and are received by the sensor to obtain environmental measurements. In short, it detects the robot's surroundings and measures distances |Due to the complication of adapting the sensor programming to the movement of the motor since the detection threshold was very low, we preferred to discard it and use only the infrared sensors.|![Ultrasonic_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/ultrasound_sensor.jpg "ultrasonic_sensor")|
+
+
+
 
