@@ -9,7 +9,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 * [Our step-by-step guide to building the robot](#Our-step-by-step-guide-to-building-the-robot)
 
 # Repository Contents
-## Our repository contains the following team data:
+# Our repository contains the following team data:
 |File| description|
 |------|------|
 | [`t-photos`](https://github.com/nestoxuy/OSCORP/tree/main/t-photos)| Includes 2 team photos (one official and one fun one with all members)|
