@@ -2,40 +2,40 @@
 We are the team that proudly represents the San Antonio Institute Educational Unit (U.E.I. San Antonio). We focus on teamwork, hard work, effort, and commitment to every project we undertake to achieve progress and our goals and dreams.
 
 #  Índice
-* [Repository Contents](#contenido-del-repositorio)
-* [Introducción del Proyecto](#introducción-del-proyecto)
-* [Fotos de nuestro Equipo](#fotos-de-nuestro-Equipo)
-* [Fotos del Vehículo](#fotos-del-vehículo)
-* [Nuestro paso a paso en la contrucción del robot](#diseño-de-hardware)
+* [Repository Contents](#Repository-Contents)
+* [Project Introduction](#Project-Introduction)
+* [Photos of our Team](#Photos-of-our-Team)
+* [Vehicle Photos](#Vehicle-Photos)
+* [Our step-by-step guide to building the robot](#Our-step-by-step-guide-to-building-the-robot)
 
-# Contenido del Repositorio
-## Nuestro repositorio contiene los siguientes datos del equipo:
-|Carpeta| descripción|
+# Repository Contents
+## Our repository contains the following team data:
+|File| description|
 |------|------|
-| [`t-photos`](https://github.com/nestoxuy/OSCORP/tree/main/t-photos)| Incluye 2 fotos del equipo (una oficial y una divertida con todos los miembros) |
-|[`v-photos`](https://github.com/nestoxuy/OSCORP/tree/main/v-photos) |Contiene 9 fotos del vehículo (desde todos los ángulos, superior e inferior)|
-|[`video`](https://github.com/nestoxuy/OSCORP/tree/main/video) |Un acceso directo a nuestro video publicado en nuestra cuenta de youtube|
-|[`schemes`](https://github.com/nestoxuy/OSCORP/tree/main/schemes) |Diagrama esquemático PNG de las conexiones electronicas desde la rapsberry hasta los componentes|
-|[`src`](https://github.com/nestoxuy/OSCORP/tree/main/src)|Todas las carpetas con las pruebas y practicas que a echo el equipo a lo largo del desarrollo del robot junto con una breve historia de como fuimos evolucionando y cambiando los codigos a lo largo del trayecto|
-|[`models`](https://github.com/nestoxuy/OSCORP/tree/main/models)|Esta carpeta esta vacia devido a que nuetro robot no necesito de impreciones 3D|
-|[`other`](https://github.com/nestoxuy/OSCORP/tree/main/other)|Contiene una lista de componentes que hemos usado y hemos podido descartar y no ser usados como componentes que si fueron implementados en la version final del robot|
+| [`t-photos`](https://github.com/nestoxuy/OSCORP/tree/main/t-photos)| Includes 2 team photos (one official and one fun one with all members)|
+|[`v-photos`](https://github.com/nestoxuy/OSCORP/tree/main/v-photos) |Contains 9 photos of the vehicle (from all angles, top and bottom)|
+|[`video`](https://github.com/nestoxuy/OSCORP/tree/main/video) |A shortcut to our video published on our YouTube account|
+|[`schemes`](https://github.com/nestoxuy/OSCORP/tree/main/schemes) |Schematic diagram (PNG) of the electronic connections from the Raspberry to the components|
+|[`src`](https://github.com/nestoxuy/OSCORP/tree/main/src)|All the folders with the tests and practices that the team has done throughout the development of the robot along with a brief history of how we evolved and changed the codes along the way|
+|[`models`](https://github.com/nestoxuy/OSCORP/tree/main/models)|This folder is empty because our robot does not need 3D printing or virtual modeling|
+|[`other`](https://github.com/nestoxuy/OSCORP/tree/main/other)|Contains a list of components that we have used and have been able to discard and not be used as components that were implemented in the final version of the robot|
 
-# Fotos de nuestro equipo 
+# Photos of our Team
 |Equipo OSCORP|![Equipo OSCORP](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/Equipo_OSCORP.jpg)|
 |-------|-------|
 
-# Fotos del Vehículo()
-|Lugar|Foto|
+# Vehicle Photos
+|Place|Photo|
 |:----:|:----:|
-|**Nivel_superior**| ![Nivel_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_superior.jpeg)| 
-|**Nivel_inferior**|![Nivel_inferior"](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_inferior.jpeg)| 
-|**Costado_derecho**|![Costado_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_derecho.jpeg "Costado_derecho")| 
-|**Costado_izquierdo**|![Costado_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_izquierdo.jpeg "Costado_izquierdo")|
-|**Tren_delantero**|![Tren_delantero](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_delantero.jpeg "Tren_delantero")|
-|**Tren_trasero**|![Tren_trasero](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_trasero.jpeg "Tren_trasero") |
-|**Lateral_inferior_izquierdo**|![Lateral_inferior_izquierdo](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_izquierdo_inferior.jpeg "Lateral_inferior_izquierdo") 
-|**Lateral_inferior_derecho**|![Lateral_inferior_derecho](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_inferior_derecho.jpeg "Lateral_inferior_derecho")
-|**Lateral_superior**|![Lateral_superior](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_superior.jpeg "Lateral_superior")|
+|**top level**| ![top_level](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_superior.jpeg)| 
+|**Lower level**|![Lower level"](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Nivel_inferior.jpeg)| 
+|**Right side**|![Right side](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_derecho.jpeg "Costado_derecho")| 
+|**Left side**|![Left side](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Costado_izquierdo.jpeg "Costado_izquierdo")|
+|**Front Train**|![Front Train](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_delantero.jpeg "Tren_delantero")|
+|**rear train**|![rear_train](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Tren_trasero.jpeg "Tren_trasero") |
+|**Lower left side**|![Lower left side](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_izquierdo_inferior.jpeg "Lateral_inferior_izquierdo") 
+|**Lower right side**|![Lower right side](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_inferior_derecho.jpeg "Lateral_inferior_derecho")
+|**Upper side**|![Upper side](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lateral_superior.jpeg "Lateral_superior")|
 
 # Electronic connection diagram
-!["Esquema"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Esquema.png "esquema")
+!["diagram"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Esquema.png "esquema")
