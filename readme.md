@@ -18,7 +18,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |[`schemes`](https://github.com/nestoxuy/OSCORP/tree/main/schemes) |Schematic diagram (PNG) of the electronic connections from the Raspberry to the components|
 |[`src`](https://github.com/nestoxuy/OSCORP/tree/main/src)|All the folders with the tests and practices that the team has done throughout the development of the robot along with a brief history of how we evolved and changed the codes along the way|
 |[`models`](https://github.com/nestoxuy/OSCORP/tree/main/models)|This folder is empty because our robot does not need 3D printing or virtual modeling|
-|[`other`](https://github.com/nestoxuy/OSCORP/tree/main/other)|Contains a list of components that we have used and have been able to discard and not be used as components that were implemented in the final version of the robot|
+|[`other`](https://github.com/nestoxuy/OSCORP/tree/main/other)|It contains a list of components we've used, components we've tested and discarded because they didn't work as needed, and components that were implemented in the final version of the robot. It also includes two folders, one containing all the photos and the other containing all the recorded videos|
 
 # Photos of our Team
 |OSCORP Team|![Equipo OSCORP](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/Equipo_OSCORP.jpg)|
