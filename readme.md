@@ -108,9 +108,12 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 # How we put together the robot
 At the beginning of the entire project, we began testing the Raspberry to ensure its functionality in the competition. We performed basic tests, such as lighting LEDs or programming a simple button, until we moved on to something more complex, such as programming infrared and ultrasonic sensors. We also tested color sensors. However, before all of that, we ran into issues that made testing difficult, such as downloading libraries or problems with the system. Since the Raspberry system is inspired by Linux, all installations were via terminal, which was very time-consuming. 
 
+## first phase 
 When we finally finished testing, we began assembling the robot. We used acrylic sheets to adapt the motor and the directional control from an old remote-controlled car (only the directional control and the motor with a mechanical differential were used). From there, we began the first phase of the robot.
 
-|phase| | | | | |
-|-----|-----|-----|-----|-----|-----|
+|phase| | | | | | |
+|-----|-----|-----|-----|-----|-----|-----|
 |**first phase**| ![First_phase_above_with_the_second_level](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level.jpg)| ![First_phase_above_with_the_second_level(2)](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level(2).jpg)| ![First_phase_from_above](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_from_above%20.jpg)| ![First_phase_from_above(2)](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_from_above(2).jpg)| ![First_phase_on_one_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_on_one_side%20.jpg)| ![First_phase_on_the_front](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_on_the_front.jpg)|
 
+## second phase 
+after mounting the two levels we began to mount the sensors, the raspberry and the ProtoBoard along with the installation of the pins with the Dupont cables, we put two infrared sensors to detect the walls on the side along with two ultrasonic sensors, one in front and one behind, this to detect the walls in front and behind also as a possible solution for parking, on the front side we put a color sensor to help us with the detection of the color of the obstacles and at the top the raspberry and a 4-battery module were tied with some tyracs which were initially the power source for the motor module and finally we put a powerband with an adapter for the power of the raspberry (this does not appear in the photo because we were still looking for a way to mount it without it falling)
