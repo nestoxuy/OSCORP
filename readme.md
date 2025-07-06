@@ -110,7 +110,7 @@ At the beginning of the entire project, we began testing the Raspberry to ensure
 
 When we finally finished testing, we began assembling the robot. We used acrylic sheets to adapt the motor and the directional control from an old remote-controlled car (only the directional control and the motor with a mechanical differential were used). From there, we began the first phase of the robot.
 
-|phase|image|image|image|image|image|
+|phase| | | | | |
 |-----|-----|-----|-----|-----|-----|
+|**first phase**| ![First_phase_above_with_the_second_level](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level.jpg)| ![First_phase_above_with_the_second_level(2)](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level(2).jpg)| ![First_phase_from_above](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_from_above%20.jpg)| ![First_phase_from_above(2)](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_from_above(2).jpg)| ![First_phase_on_one_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_on_one_side%20.jpg)| ![First_phase_on_the_front](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_on_the_front.jpg)|
 
-|**first phase**| ![First_phase_above_with_the_second_level](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level.jpg)| ![First_phase_above_with_the_second_level(2)](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level(2).jpg)| ![First_phase_from_above](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_from_above%20.jpg)| 
