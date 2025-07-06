@@ -114,4 +114,4 @@ When we finally finished testing, we began assembling the robot. We used acrylic
 |----|-------|
 
 |first phase | ![First_phase_above_with_the_second_level](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level.jpg)
-| |![First_phase_above_with_the_second_level(2)](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level(2).jpg) |
+ |![First_phase_above_with_the_second_level(2)](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level(2).jpg) |
