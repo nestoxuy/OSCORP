@@ -84,7 +84,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |name|function|image|
 |----|-------|-----|
 |**engine module**|This module was purchased with the objective of making the programming compatible with the motor for movement and being able to use it as well as regulate the flow of current that it receives| ![module](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/motor_module.jpg "motor module") |
-| **Color Sensor** |We use it to help detect colors and know what movements the robot should make when encountering obstacles, which are red and green|![Color_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/color_sensor.jpg "Color_sensor")|
+| **Color Sens| **Color Sensor** |We use it to help detect colors and know what movements the robot should make when encountering obstacles, which are red and green|![Color_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/color_sensor.jpg "Color_sensor")|
 |**infrared sensor**|We installed this sensor to adjust its distance and achieve a slightly easier detection of walls than with ultrasonic sensors|![Infrared_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/infrared_sensor.jpg "Infrared_sensor")|
 | **Ultrasonic Sensor** |This sensor was used to detect walls to achieve a more fluid and safe movement, preventing collisions and jamming |![Ultrasonic_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/ultrasound_sensor.jpg "ultrasonic_sensor")|
 |**Differential motor mechanics of a toy car**|The differential was taken from an old car, which aims to facilitate turns and allow tighter, less rigid and forced turns|![Differential_motor_mechanics_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Differential_motor_mechanics_of_a_toy_car.jpg)|
@@ -96,10 +96,14 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |----|-------|-----|
 | **Raspberry Pi5**|The Raspberry is the brain of the entire robot, allowing the programming to be saved and also executed, which allowed us to implement different commands. Without this control board, nothing would be possible; the robot simply wouldn't know what to do|![Raspberry_Pi5](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/raspberry-pi-5-03.jpg "Raspberry_Pi5")|
 
-
 # power components 
 |name|function|image|
 |----|-------|-----|
 | **7.4V 6200mAh Rechargeable Lithium Battery**|After doing several experiments with alkaline batteries to be able to provide sufficient power to the Raspberry, we encountered the problem of not sending enough and not lasting long enough, so we decided to buy a lithium battery which not only gives us enough energy but also the necessary performance and durability.|![7.4V_6200mAh_Rechargeable_Lithium_Battery](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/7.4V_6200mha_Rechargeable_Lithium_Battery.jpg "7.4V_6200mAh_rechargeable_lithium_battery")|
 |**Current Regulator Module**|Before buying the battery we needed, we looked for different battery models that would fit the bill, but since they didn't provide enough power, we bought a power regulator to use with the current battery and achieve the necessary amount of energy, while also avoiding the risk of damaging the controller|![Current_Regulator_Module](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Current%20_regulator.jpg "Current_regulator")|
+
+# Electronic connection diagram
+!["diagram"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Scheme.png )
+
+
 
