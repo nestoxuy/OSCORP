@@ -12,6 +12,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 * [electrical components for detection and motion ](#electrical-components-for-detection-and-motion)
 * [processing components](#processing-components)
 * [power components](#power-components)
+* [refrigeration system](#refrigeration-system)
 * [Electronic connection diagram](#Electronic-connection-diagram)
 * [How we put together the robot](#How-we-put-together-the-robot)
 	* [first phase](#first-phase)
