@@ -10,6 +10,8 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 * [List of components tested but discarded](#List-of-components-tested-but-discarded)
 * [Hardware design](#Hardware-design)
 * [electrical components for detection and motion ](#electrical-components-for-detection-and-motion)
+* [processing components](#processing-components)
+* [power components](#power-components)
 * [Electronic connection diagram](#Electronic-connection-diagram)
 * [How we put together the robot (experience and ideas)](#How-we-put-together-the-robot-(experience-and-ideas))
 
@@ -79,29 +81,25 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |**Mechanical steering of a toy car**|It helps steer the robot by transmitting force from the servomotor to the wheels to change the robot's direction and facilitate its turns. The servomotor was adapted so that a plastic lever fit perfectly into the servomotor slot, allowing it to transmit its force much better. The servomotor used was a 180-degree servomotor to control movement. The servomotor centers at 90 degrees, turns left at 180 degrees, and turns right at 0 degrees|![Mechanical_steering_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Mechanical_steering_of_a_toy_car.jpg)|
 
 # electrical components for detection and motion 
-|name|función|image|
+|name|function|image|
 |----|-------|-----|
-|**engine module**|manages the movement and performance of the motors, as well as managing the flow of energy to prevent the motors or in this case the engine from burning out| ![module](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/motor_module.jpg "motor module") |
-| **Color Sensor** |Measures light intensity at different wavelengths to determine object colors and sends signals to identify colors|![Color_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/color_sensor.jpg "Color_sensor")|
-|**infrared sensor**|Infrared Sensor radiation (IR) through one LED acting as transmitter. The signal bounces back and is detected by another LED acting as receiver. Measures received IR radiation level and return time to calculate object distance|![Infrared_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/infrared_sensor.jpg "Infrared_sensor")|
-| **Ultrasonic Sensor** |Responsible for sending ultrasonic waves that bounce off sufficiently solid objects and are received by the sensor to obtain environmental measurements. In short, it detects the robot's surroundings and measures distances |![Ultrasonic_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/ultrasound_sensor.jpg "ultrasonic_sensor")|
-|**Differential motor mechanics of a toy car**|It allows the wheels to rotate at different speeds, especially during turns, while connected to the same axle. This is crucial for safe and efficient handling, preventing slippage, and with its included motor, it can move the robot both forward and backward|![Differential_motor_mechanics_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Differential_motor_mechanics_of_a_toy_car.jpg)|
-|**Mechanical steering of a toy car**|It helps steer the robot by transmitting force from the servomotor to the wheels to change the robot's direction and assist with its turns. The servomotor was adapted so that a plastic lever would fit perfectly into the slot in the turn signal, allowing the servomotor to transmit its force much better|![Mechanical_steering_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Mechanical_steering_of_a_toy_car.jpg)|
-|**180 degree servo motor**| The servomotor used was a 180-degree servomotor to control movement. The servomotor centers at 90 degrees, turns left at 180 degrees, and turns right at 0 degrees|![180_degree_servo_motor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/180_degree_servo_motor.jpg)|
+|**engine module**|This module was purchased with the objective of making the programming compatible with the motor for movement and being able to use it as well as regulate the flow of current that it receives| ![module](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/motor_module.jpg "motor module") |
+| **Color Sensor** |We use it to help detect colors and know what movements the robot should make when encountering obstacles, which are red and green|![Color_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/color_sensor.jpg "Color_sensor")|
+|**infrared sensor**|We installed this sensor to adjust its distance and achieve a slightly easier detection of walls than with ultrasonic sensors|![Infrared_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/infrared_sensor.jpg "Infrared_sensor")|
+| **Ultrasonic Sensor** |This sensor was used to detect walls to achieve a more fluid and safe movement, preventing collisions and jamming |![Ultrasonic_Sensor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/ultrasound_sensor.jpg "ultrasonic_sensor")|
+|**Differential motor mechanics of a toy car**|The differential was taken from an old car, which aims to facilitate turns and allow tighter, less rigid and forced turns|![Differential_motor_mechanics_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Differential_motor_mechanics_of_a_toy_car.jpg)|
+|**Mechanical steering of a toy car**|The directional was also removed from the same place as the differential, this was installed with the objective of helping in turns and the direction that the robot takes|![Mechanical_steering_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Mechanical_steering_of_a_toy_car.jpg)|
+|**180 degree servo motor**| The servomotor was used to be adapted to the directional and through programming to have it move and in turn move the direction of the wheels|![180_degree_servo_motor](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/180_degree_servo_motor.jpg)|
 
 # processing components 
 |name|function|image|
 |----|-------|-----|
-| **Raspberry Pi5**|The motherboard - the robot's brain. Features: 8GB RAM, 4GB ROM, dual 4K GPU support, PCI Express interface. Ports: 2x HDMI, 4x USB (2x USB2.0 + 2x USB3.0), Gigabit Ethernet, 27 programmable pins (2x 3V, 2x 5V, 8x GND), USB-C power, microSD slot. Power: 5V-3A (min) to 5V-5A (max)|![Raspberry_Pi5](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/raspberry-pi-5-03.jpg "Raspberry_Pi5")|
+| **Raspberry Pi5**|The Raspberry is the brain of the entire robot, allowing the programming to be saved and also executed, which allowed us to implement different commands. Without this control board, nothing would be possible; the robot simply wouldn't know what to do|![Raspberry_Pi5](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/raspberry-pi-5-03.jpg "Raspberry_Pi5")|
+
 
 # power components 
 |name|function|image|
 |----|-------|-----|
-| **7.4V 6200mAh Rechargeable Lithium Battery**|Primary power source for Raspberry Pi and installed sensors|![7.4V_6200mAh_Rechargeable_Lithium_Battery](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/7.4V_6200mha_Rechargeable_Lithium_Battery.jpg "7.4V_6200mAh_rechargeable_lithium_battery")|
-|**Current Regulator Module**|Critical component converting battery's 7.4V to stable 5V (exactly 4.99V), preventing shorts and protecting Raspberry Pi|![Current_Regulator_Module](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Current%20_regulator.jpg "Current_regulator")|
-
-# Electronic connection diagram
-!["diagram"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Scheme.png )
-
-
+| **7.4V 6200mAh Rechargeable Lithium Battery**|After doing several experiments with alkaline batteries to be able to provide sufficient power to the Raspberry, we encountered the problem of not sending enough and not lasting long enough, so we decided to buy a lithium battery which not only gives us enough energy but also the necessary performance and durability.|![7.4V_6200mAh_Rechargeable_Lithium_Battery](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/7.4V_6200mha_Rechargeable_Lithium_Battery.jpg "7.4V_6200mAh_rechargeable_lithium_battery")|
+|**Current Regulator Module**|Before buying the battery we needed, we looked for different battery models that would fit the bill, but since they didn't provide enough power, we bought a power regulator to use with the current battery and achieve the necessary amount of energy, while also avoiding the risk of damaging the controller|![Current_Regulator_Module](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Current%20_regulator.jpg "Current_regulator")|
 
