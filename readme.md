@@ -105,7 +105,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 # Electronic connection diagram
 !["diagram"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Scheme.png )
 
-# List of components tested but discarded
+# How we put together the robot (experience and ideas)
 At the beginning of the entire project, we began testing the Raspberry to ensure its functionality in the competition. We performed basic tests, such as lighting LEDs or programming a simple button, until we moved on to something more complex, such as programming infrared and ultrasonic sensors. We also tested color sensors. However, before all of that, we ran into issues that made testing difficult, such as downloading libraries or problems with the system. Since the Raspberry system is inspired by Linux, all installations were via terminal, which was very time-consuming. 
 
 When we finally finished testing, we began assembling the robot. We used acrylic sheets to adapt the motor and the directional control from an old remote-controlled car (only the directional control and the motor with a mechanical differential were used). From there, we began the first phase of the robot.
@@ -113,4 +113,4 @@ When we finally finished testing, we began assembling the robot. We used acrylic
 |phase|image|
 |----|-------|
 
-|first phase | ![First_phase_above_with_the_second_level](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level.jpg) ![First_phase_above_with_the_second_level(2)](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level(2).jpg) |
+|first phase | ![First_phase_above_with_the_second_level](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level.jpg), ![First_phase_above_with_the_second_level(2)](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/First%20phase/First_phase_above_with_the_second_level(2).jpg) |
