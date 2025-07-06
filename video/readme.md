@@ -6,5 +6,3 @@
 [![video of the second oscorp test](https://img.youtube.com/vi/hP1flFgDdLQ/0.jpg)](https://youtu.be/AnX9UVvoi4Q?si=hP1flFgDdLQ.jpg)
 
 
-# video of the third test of oscorp
-[![video of the third test of oscorp](https://img.youtube.com/vi/BKkf62L762U.jpg)](https://m.youtube.com/watch?v=BKkf62L762U)
