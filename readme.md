@@ -19,6 +19,8 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 	* [second phase](#second-phase)
  	* [third and final phase](#third-and-final-phase)
 * [creation of the tracks](#creation-of-the-tracks)
+* [VIDEO DEL ROBOT TECHBOT](#VIDEO-DEL-ROBOT-TECHBOT)
+
 # Repository Contents
 # Our repository contains the following team data:
 |File| description|
@@ -167,3 +169,11 @@ Our team had two practical tracks. The first was custom-made to the measurements
 |image|image|image| 
 |-----|-----|-----|
 |![](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/training%20tracks/%20IMG-20250706-WA0001.jpg)|![](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/training%20tracks/IMG-20250706-WA0003.jpg)|![](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/training%20tracks/IMG-20250706-WA0017.jpg)|
+
+# VIDEO DEL ROBOT TECHBOT
+
+## VIDEO PRIMERA PRUEBA DE OSCORP
+[![VIDEO PRIMERA PRUEBA DE OSCORP](https://img.youtube.com/vi/hP1flFgDdLQ/0.jpg)](https://www.youtube.com/watch?v=hP1flFgDdLQ "VIDEO DEL ROBOT OSCORP "
+)
+## VIDEO SEGUNDA PRUEBA DE OSCORP
+[![VIDEO SEGUNDA PRUEBA DE OSCORP](https://img.youtube.com/vi/hP1flFgDdLQ/0.jpg)](https://youtu.be/AnX9UVvoi4Q?si=hP1flFgDdLQ.jpg)
