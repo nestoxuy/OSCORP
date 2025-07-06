@@ -13,7 +13,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 * [processing components](#processing-components)
 * [power components](#power-components)
 * [Electronic connection diagram](#Electronic-connection-diagram)
-* [How we put together the robot (experience and ideas)](#How-we-put-together-the-robot (experience and ideas))
+* [How we put together the robot](#How-we-put-together-the-robot)
 
 # Repository Contents
 # Our repository contains the following team data:
