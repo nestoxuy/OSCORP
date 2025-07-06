@@ -17,7 +17,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 	* [first phase](#first-phase)
 	* [second phase](#second-phase)
  	* [third and final phase](#third-and-final-phase)
-*
+* [creation of the tracks](#creation-of-the-tracks)
 # Repository Contents
 # Our repository contains the following team data:
 |File| description|
