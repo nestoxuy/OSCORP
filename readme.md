@@ -14,6 +14,8 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 * [power components](#power-components)
 * [Electronic connection diagram](#Electronic-connection-diagram)
 * [How we put together the robot](#How-we-put-together-the-robot)
+* [first phase](#first-phase)
+* [second phase](#second-phase)
 
 # Repository Contents
 # Our repository contains the following team data:
@@ -117,3 +119,7 @@ When we finally finished testing, we began assembling the robot. We used acrylic
 
 ## second phase 
 after mounting the two levels we began to mount the sensors, the raspberry and the ProtoBoard along with the installation of the pins with the Dupont cables, we put two infrared sensors to detect the walls on the side along with two ultrasonic sensors, one in front and one behind, this to detect the walls in front and behind also as a possible solution for parking, on the front side we put a color sensor to help us with the detection of the color of the obstacles and at the top the raspberry and a 4-battery module were tied with some tyracs which were initially the power source for the motor module and finally we put a powerband with an adapter for the power of the raspberry (this does not appear in the photo because we were still looking for a way to mount it without it falling)
+
+|phase| | | | | | 
+|-----|-----|-----|-----|-----|-----|
+|**Second phase**|![Second_phase_top_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_top_part.jpg)|![Second_phase_left_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_left_side.jpg)|![Second_phase_Right_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_Right_side.jpg)|![Second_phase_from_the_front](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_from_the_front.jpg)|![Second_phase_rear_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_rear_part%20.jpg)|
