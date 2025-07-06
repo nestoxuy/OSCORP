@@ -141,3 +141,7 @@ Finally, we added the new rechargeable lithium battery that was purchased. In ad
 | |**Third phase left side**|![Third_phase_left_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_left_side%20.jpg)|
 
 # creation of the tracks
+Our team had two practical tracks. The first was custom-made to the measurements of the WROC, made of matte banner. Then we switched to another, more improvised track to test the sensors and test the robot's autonomy and performance.This other track was created by recycling materials from past competitions, such as old tracks or pieces of wood
+|image|image|image| 
+|-----|-----|-----|
+|![](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/training%20tracks/%20IMG-20250706-WA0001.jpg)|![](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/training%20tracks/IMG-20250706-WA0003.jpg)|![](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/training%20tracks/IMG-20250706-WA0017.jpg)|
