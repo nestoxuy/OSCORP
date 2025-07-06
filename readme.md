@@ -132,8 +132,8 @@ To avoid collisions with walls and make it easier to avoid obstacles, we removed
 
 Finally, we added the new rechargeable lithium battery that was purchased. In addition, a fan cooler was installed on the current regulator due to overheating. With the fan cooler, it would cool as much as possible and prevent the regulator from burning out.
 
-|phase|part |image | | | | 
-|-----|-----|-----|-----|-----|-----|
+|phase|part |image | 
+|-----|-----|-----|
 |**third phase**|**Third phase top part**|![Third_phase_top_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_top_part%20.jpg)|
 | |**Third phase front part**|![Third_phase_front_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_front_part%20.jpg)|
 | |**Third phase back part**|![Third_phase_back_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_back_part%20.jpg)|
