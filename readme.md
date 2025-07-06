@@ -83,6 +83,14 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |**Differential motor mechanics of a toy car**|It allows the wheels to rotate at different speeds, especially during turns, while connected to the same axle. This is crucial for safe and efficient handling, preventing slippage, and with its included motor, it can move the robot both forward and backward|![Differential_motor_mechanics_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Differential_motor_mechanics_of_a_toy_car.jpg)|
 |**Mechanical steering of a toy car**|It helps steer the robot by transmitting force from the servomotor to the wheels to change the robot's direction and facilitate its turns. The servomotor was adapted so that a plastic lever fit perfectly into the servomotor slot, allowing it to transmit its force much better. The servomotor used was a 180-degree servomotor to control movement. The servomotor centers at 90 degrees, turns left at 180 degrees, and turns right at 0 degrees|![Mechanical_steering_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Mechanical_steering_of_a_toy_car.jpg)|
 
+# detection system
+Each of our sensors performs specific functions to guide the robot and ensure it doesn't crash or get stuck on any obstacles or walls:
+
+* The infrared sensors are located on the front of the robot, providing quick and safe detection to avoid unexpected collisions with walls or obstacles.
+* The ultrasonic sensors are located at the front, specifically on the robot's diagonals, measuring long distances to maintain our movement margins with respect to the side and front walls.
+* Finally, our color sensor identifies the lines on the map, allowing us to navigate the track and count how many times it passes over any of the lines on the same track, thus keeping track of laps more efficiently.
+![Detection_system](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Detection_system%20.jpg)
+
 # electrical components for detection and motion 
 |name|function|image|
 |----|-------|-----|
@@ -104,6 +112,10 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |----|-------|-----|
 | **7.4V 6200mAh Rechargeable Lithium Battery**|After doing several experiments with alkaline batteries to be able to provide sufficient power to the Raspberry, we encountered the problem of not sending enough and not lasting long enough, so we decided to buy a lithium battery which not only gives us enough energy but also the necessary performance and durability.|![7.4V_6200mAh_Rechargeable_Lithium_Battery](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/7.4V_6200mha_Rechargeable_Lithium_Battery.jpg "7.4V_6200mAh_rechargeable_lithium_battery")|
 |**Current Regulator Module**|Before buying the battery we needed, we looked for different battery models that would fit the bill, but since they didn't provide enough power, we bought a power regulator to use with the current battery and achieve the necessary amount of energy, while also avoiding the risk of damaging the controller|![Current_Regulator_Module](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Current%20_regulator.jpg "Current_regulator")|
+# refrigeration system
+|function|image|
+|--------|-----|
+|This system allows for faster and safer cooling of the power regulator and the Raspberry, avoiding possible damage to the system or simply overheating.|![Refrigeration_system](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Refrigeration_system%20.jpg)|
 
 # Electronic connection diagram
 !["diagram"](https://github.com/nestoxuy/OSCORP/blob/main/schemes/Schemes/Scheme.png )
