@@ -31,6 +31,13 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |[`models`](https://github.com/nestoxuy/OSCORP/tree/main/models)|This folder is empty because our robot does not need 3D printing or virtual modeling|
 |[`other`](https://github.com/nestoxuy/OSCORP/tree/main/other)|It contains a list of components we've used, components we've tested and discarded because they didn't work as needed, and components that were implemented in the final version of the robot. It also includes two folders, one containing all the photos and the other containing all the recorded videos|
 
+# Project Introduction
+At the beginning, our project encountered some complications, but despite the adversities and lack of time, we managed to create a functional and mostly autonomous robot. The members of the Oscorp team are proud to present our obstacle- and color-detecting robot to Techbot.
+
+This robot's design was made with recycled materials from old competitions, such as acrylic bases, which were essential for assembling the robot. A directional control and a motor with a differential were salvaged from an old remote-controlled car, from which only the differential, motor, and the directional control were salvaged.
+
+Despite having encountered so many obstacles in creating the robot, we managed to make it, and it is the result of the fact that with effort and motivation, everything is possible.
+
 # Photos of our Team
 |OSCORP Team|![OSCORP_Team](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/OSCORP_Team.jpg)|
 |-------|-------|
