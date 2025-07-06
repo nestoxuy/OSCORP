@@ -14,9 +14,10 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 * [power components](#power-components)
 * [Electronic connection diagram](#Electronic-connection-diagram)
 * [How we put together the robot](#How-we-put-together-the-robot)
-* [first phase](#first-phase)
-* [second phase](#second-phase)
-
+	* [first phase](#first-phase)
+	* [second phase](#second-phase)
+ 	* [third and final phase](#third-and-final-phase)
+*
 # Repository Contents
 # Our repository contains the following team data:
 |File| description|
@@ -45,8 +46,8 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 |**Lower left side**|![Lower left side](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lower_left_side.jpeg ) 
 |**Lower right side**|![Lower right side](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Lower_right_side.jpeg )
 |**Upper side**|![Upper side](https://github.com/nestoxuy/OSCORP/blob/main/v-photos/Images/Upper_side.jpeg )|
-
-
+> [!NOTE]
+> The images shown are not of the final model; they are almost at the end. These are just a sample of what the robot looks like from all angles.
 
 
 # List of components used
@@ -123,3 +124,20 @@ after mounting the two levels we began to mount the sensors, the raspberry and t
 |phase| | | | | | 
 |-----|-----|-----|-----|-----|-----|
 |**Second phase**|![Second_phase_top_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_top_part.jpg)|![Second_phase_left_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_left_side.jpg)|![Second_phase_Right_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_Right_side.jpg)|![Second_phase_from_the_front](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_from_the_front.jpg)|![Second_phase_rear_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_rear_part%20.jpg)|
+
+## third and final phase
+By this point we had quite a few things to fix. Problems arose with the color sensors and the ultrasonic sensors, so we decided to take it step by step. We already had an idea of ​​what we wanted: for the robot to complete 3 laps and not crash. By this point, we discarded the front color sensor and, to ensure that the robot managed to finish exactly where it started, a new color sensor was installed. This would go on the bottom wall, prepared to read the lines on the track floor. Depending on the color it read first, it would start counting. If it passed over the first color detected 4 times, this would mean that it had already completed a lap. It would have to pass a total of 12 times for it to count as 3 laps. This would not only give it endless progress, but would also give the robot greater autonomy, allowing it to complete the laps without any possible programming errors.
+
+To avoid collisions with walls and make it easier to avoid obstacles, we removed the infrared sensors that were on the sides and left only one in the front, right in the center. Next to this sensor, almost at the corners, we added two ultrasonic sensors, one on each side to obtain a greater detection range and avoid collisions, in addition to helping avoid obstacles and providing a little help in the parking lot.
+
+Finally, we added the new rechargeable lithium battery that was purchased. In addition, a fan cooler was installed on the current regulator due to overheating. With the fan cooler, it would cool as much as possible and prevent the regulator from burning out.
+
+|phase|part |image | | | | 
+|-----|-----|-----|-----|-----|-----|
+|**third phase**|**Third phase top part**|![Third_phase_top_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_top_part%20.jpg)|
+| |**Third phase front part**|![Third_phase_front_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_front_part%20.jpg)|
+| |**Third phase back part**|![Third_phase_back_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_back_part%20.jpg)|
+| |**Third phase right side**|![Third_phase_right_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_right_side%20.jpg)|
+| |**Third phase left side**|![Third_phase_left_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_left_side%20.jpg)|
+
+# creation of the tracks
