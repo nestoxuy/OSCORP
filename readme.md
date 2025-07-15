@@ -4,8 +4,8 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 #  Índice
 * [Repository Contents](#Repository-Contents)
 * [Project Introduction](#Project-Introduction)
-* [First model](#First-model)
 * [Photos of our Team](#Photos-of-our-Team)
+* [First model](#First-model)
 * [Vehicle Photos](#Vehicle-Photos)
 * [List of components used](#List-of-components-used)
 * [List of components tested but discarded](#List-of-components-tested-but-discarded)
