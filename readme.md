@@ -102,13 +102,13 @@ Despite having encountered so many obstacles in creating the robot, we managed t
 
 # Software design
 
-## brief summary of our evolution 
+## Brief summary of our evolution 
 Throughout our time assembling the robot, there were various changes in its programming, in which we can see an evolution of the code, a use and disuse of some components, such as the color sensor, which we discarded due to a bug that occurred when using the color sensor and the ultrasound sensors, when there was an error in these we decided to leave the ultrasound sensor and the infrared sensors, the ultrasound sensors are responsible for detecting walls, and depending on which wall is closer, they will turn in reverse, sensor 1, located on the right side of the robot, when it detects that it has a wall nearby, it will indicate to the servomotor that it should turn left, in turn, sensor 2, which is on the left side of the robot, when it detects a wall it will go to the right side, and the infrared sensor when it detects that it has a wall in front of it, it will indicate to the motors that they should go back for a certain time in order to continue executing their actions
 
-# GPIOZERO library
+## GPIOZERO library
 For our project programming, we used libraries such as the **GPIOZERO library**, which allows us to use a wide variety of commands for programming, from a simple button to programming ultrasonic and infrared sensors
 
-# GPIOZERO schematic
+## GPIOZERO schematic
 |Bookshop|specific section of the library|Funtion|
 |--------|-------------------------------|-------|
 |**GPIOZERO**|**DigitalInpuDevice**|It allows the detection and representation of a device, such as a button or a switch, allowing to determine if the device is active or inactive and to detect changes in its state **In summary** this section of the library allows you to: detect the device state, handle events and configure the behavior|
@@ -118,7 +118,7 @@ For our project programming, we used libraries such as the **GPIOZERO library**,
 |**GPIOZERO**|**Motor**|It simplifies hardware programming by offering an abstract interface that facilitates the control of devices such as motors|
 |**GPIOZERO**|**DistanceSensor**|This class allows interaction with the ultrasonic sensor allowing the sensor to emit an ultrasonic pulse and detect an echo helping to measure the distance of an object to the sensor based on the time it takes for the ultrasonic signal to travel and return|
 
-# Time library
+## Time library
 Like the **time library**, this allows us to use **Time** in programming to determine how much time we need to generate a certain robot action
 
 # detection system
