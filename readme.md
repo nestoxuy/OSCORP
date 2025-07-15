@@ -11,7 +11,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 * [List of components tested but discarded](#List-of-components-tested-but-discarded)
 * [Hardware design](#Hardware-design)
 * [Software design](#Software-design)
-* 	[Brief summary of our evolution](#Brief-summary-of-our-evolution)
+	* [Brief summary of our evolution](#Brief-summary-of-our-evolution)
 * [GPIOZERO schematic](#GPIOZERO-schematic)
 * [electrical components for detection and motion ](#electrical-components-for-detection-and-motion)
 * [processing components](#processing-components)
