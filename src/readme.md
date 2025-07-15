@@ -3,3 +3,4 @@ Throughout our time assembling the robot, there were various changes in its prog
 
 For our project programming, we used libraries such as the **GPIOZERO library**, which allows us to use a wide variety of commands for programming, from a simple button to programming ultrasonic and infrared sensors.
 
+Like the time library, this allows us to use **Time** in programming to determine how much time we need to generate a certain robot action.
