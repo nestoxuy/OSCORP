@@ -10,6 +10,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 * [List of components used](#List-of-components-used)
 * [List of components tested but discarded](#List-of-components-tested-but-discarded)
 * [Hardware design](#Hardware-design)
+* [Software design](#Software-design)
 * [electrical components for detection and motion ](#electrical-components-for-detection-and-motion)
 * [processing components](#processing-components)
 * [power components](#power-components)
@@ -96,6 +97,15 @@ Despite having encountered so many obstacles in creating the robot, we managed t
 | **Transparent Acrylic Bases** |Primary foundation for the entire assembly. The two-tiered base holds directional components/motors (lower level) and allows mounting/screwing of electronic components (upper level)|![Transparent_Acrylic_Bases](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/base.jpg)
 |**Differential motor mechanics of a toy car**|It allows the wheels to rotate at different speeds, especially during turns, while connected to the same axle. This is crucial for safe and efficient handling, preventing slippage, and with its included motor, it can move the robot both forward and backward|![Differential_motor_mechanics_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Differential_motor_mechanics_of_a_toy_car.jpg)|
 |**Mechanical steering of a toy car**|It helps steer the robot by transmitting force from the servomotor to the wheels to change the robot's direction and facilitate its turns. The servomotor was adapted so that a plastic lever fit perfectly into the servomotor slot, allowing it to transmit its force much better. The servomotor used was a 180-degree servomotor to control movement. The servomotor centers at 90 degrees, turns left at 180 degrees, and turns right at 0 degrees|![Mechanical_steering_of_a_toy_car](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Mechanical_steering_of_a_toy_car.jpg)|
+
+# Software design
+
+## brief summary of our evolution 
+Throughout our time assembling the robot, there were various changes in its programming, in which we can see an evolution of the code, a use and disuse of some components, such as the color sensor, which we discarded due to a bug that occurred when using the color sensor and the ultrasound sensors, when there was an error in these we decided to leave the ultrasound sensor and the infrared sensors, the ultrasound sensors are responsible for detecting walls, and depending on which wall is closer, they will turn in reverse, sensor 1, located on the right side of the robot, when it detects that it has a wall nearby, it will indicate to the servomotor that it should turn left, in turn, sensor 2, which is on the left side of the robot, when it detects a wall it will go to the right side, and the infrared sensor when it detects that it has a wall in front of it, it will indicate to the motors that they should go back for a certain time in order to continue executing their actions
+
+For our project programming, we used libraries such as the **GPIOZERO library**, which allows us to use a wide variety of commands for programming, from a simple button to programming ultrasonic and infrared sensors.
+
+Like the time library, this allows us to use **Time** in programming to determine how much time we need to generate a certain robot action.
 
 # detection system
 Each of our sensors performs specific functions to guide the robot and ensure it doesn't crash or get stuck on any obstacles or walls:
