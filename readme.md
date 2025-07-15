@@ -4,6 +4,7 @@ We are the team that proudly represents the San Antonio Institute Educational Un
 #  Índice
 * [Repository Contents](#Repository-Contents)
 * [Project Introduction](#Project-Introduction)
+* [First model](#First-model)
 * [Photos of our Team](#Photos-of-our-Team)
 * [Vehicle Photos](#Vehicle-Photos)
 * [List of components used](#List-of-components-used)
@@ -40,6 +41,7 @@ This robot's design was made with recycled materials from old competitions, such
 
 Despite having encountered so many obstacles in creating the robot, we managed to make it, and it is the result of the fact that with effort and motivation, everything is possible.
 
+# First model
 # Photos of our Team
 | **OSCORP Team**| ![OSCORP_Team](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/OSCORP_Team.jpg )|
 |-----------|--------|
