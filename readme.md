@@ -46,9 +46,9 @@ Despite having encountered so many obstacles in creating the robot, we managed t
 
 # First model
 # Photos of our Team
-| **OSCORP Team**| ![OSCORP_Team](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/OSCORP_Team.jpg )|
+| **OSCORP Team**| |
 |-----------|--------|
-| |![OSCORP_Team (2)](https://github.com/nestoxuy/OSCORP/blob/main/t-photos/OSCORP_Team(2).jpg)|
+| ||
 
 
 # Vehicle Photos
