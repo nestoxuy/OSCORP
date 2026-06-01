@@ -126,7 +126,7 @@ Each of our sensors performs specific functions to guide the robot and ensure it
 * The infrared sensors are located on the front of the robot, providing quick and safe detection to avoid unexpected collisions with walls or obstacles.
 * The ultrasonic sensors are located at the front, specifically on the robot's diagonals, measuring long distances to maintain our movement margins with respect to the side and front walls.
 * Finally, our color sensor identifies the lines on the map, allowing us to navigate the track and count how many times it passes over any of the lines on the same track, thus keeping track of laps more efficiently.
-![Detection_system](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Detection_system%20.jpg)
+![Detection_system]()
 
 # electrical components for detection and motion 
 |name|function|image|
