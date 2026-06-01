@@ -167,7 +167,7 @@ after mounting the two levels we began to mount the sensors, the raspberry and t
 
 |phase| | | | | | 
 |-----|-----|-----|-----|-----|-----|
-|**Second phase**|![Second_phase_top_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_top_part.jpg)|![Second_phase_left_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_left_side.jpg)|![Second_phase_Right_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_Right_side.jpg)|![Second_phase_from_the_front](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_from_the_front.jpg)|![Second_phase_rear_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Second%20phase/Second_phase_rear_part%20.jpg)|
+|**Second phase**|![Second_phase_top_part]()|![Second_phase_left_side]()|![Second_phase_Right_side]()|![Second_phase_from_the_front]()|![Second_phase_rear_part]()|
 
 ## third and final phase
 By this point we had quite a few things to fix. Problems arose with the color sensors and the ultrasonic sensors, so we decided to take it step by step. We already had an idea of ​​what we wanted: for the robot to complete 3 laps and not crash. By this point, we discarded the front color sensor and, to ensure that the robot managed to finish exactly where it started, a new color sensor was installed. This would go on the bottom wall, prepared to read the lines on the track floor. Depending on the color it read first, it would start counting. If it passed over the first color detected 4 times, this would mean that it had already completed a lap. It would have to pass a total of 12 times for it to count as 3 laps. This would not only give it endless progress, but would also give the robot greater autonomy, allowing it to complete the laps without any possible programming errors.
@@ -178,22 +178,22 @@ Finally, we added the new rechargeable lithium battery that was purchased. In ad
 
 |phase|part |image | 
 |-----|-----|-----|
-|**third phase**|**Third phase top part**|![Third_phase_top_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_top_part%20.jpg)|
-| |**Third phase front part**|![Third_phase_front_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_front_part%20.jpg)|
-| |**Third phase back part**|![Third_phase_back_part](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_back_part%20.jpg)|
-| |**Third phase right side**|![Third_phase_right_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_right_side%20.jpg)|
-| |**Third phase left side**|![Third_phase_left_side](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/Third%20phase%20/Third_phase_left_side%20.jpg)|
+|**third phase**|**Third phase top part**|![Third_phase_top_part]()|
+| |**Third phase front part**|![Third_phase_front_part]()|
+| |**Third phase back part**|![Third_phase_back_part]()|
+| |**Third phase right side**|![Third_phase_right_side]()|
+| |**Third phase left side**|![Third_phase_left_side]()|
 
 # creation of the tracks
 Our team had two practical tracks. The first was custom-made to the measurements of the WROC, made of matte banner. Then we switched to another, more improvised track to test the sensors and test the robot's autonomy and performance.This other track was created by recycling materials from past competitions, such as old tracks or pieces of wood
 |image|image|image| 
 |-----|-----|-----|
-|![](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/training%20tracks/%20IMG-20250706-WA0001.jpg)|![](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/training%20tracks/IMG-20250706-WA0003.jpg)|![](https://github.com/nestoxuy/OSCORP/blob/main/other/Fotos/training%20tracks/IMG-20250706-WA0017.jpg)|
+|![]()|![]()|![]()|
 
 # Techbot robot video
 
 ## video of the first oscorp test 
-[![video of the first oscorp test](https://img.youtube.com/vi/hP1flFgDdLQ/0.jpg)](https://www.youtube.com/watch?v=hP1flFgDdLQ "VIDEO DEL ROBOT OSCORP "
+[![video of the first oscorp test]()](
 )
 ## video of the second oscorp test 
-[![video of the second oscorp test ](https://img.youtube.com/vi/hP1flFgDdLQ/0.jpg)](https://youtu.be/AnX9UVvoi4Q?si=hP1flFgDdLQ.jpg)
+[![video of the second oscorp test ]()
